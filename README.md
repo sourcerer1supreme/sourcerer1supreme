@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **C, C++, Java, Python, HTML5, CSS3, SQL**
 
-- 📫 How to reach me **monimoyghosh01@gmail.com**
+- 📫 Reach me -> **monimoyghosh01@gmail.com**
 
 <br>
 <h3 align="left">Connect with me:</h3>
